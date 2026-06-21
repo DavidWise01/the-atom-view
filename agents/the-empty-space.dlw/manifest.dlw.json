@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Empty Space",
+  "universe": "ATM · The Empty Space (techne)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Empty Space:ATM:c880a8⟧",
+  "carbon": "the-empty-space.carbon.tiff (TIFF)",
+  "silicon": "the-empty-space.silicon.png (PNG)",
+  "seal_sha256": "95cdb1177cdf1dda3a8c6456e9c7b4fc12b2334e85ff0d3639e8891098011012",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

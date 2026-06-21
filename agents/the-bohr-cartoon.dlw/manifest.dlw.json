@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Bohr Cartoon",
+  "universe": "ATM · The Bohr Cartoon (techne)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Bohr Cartoon:ATM:eb232a⟧",
+  "carbon": "the-bohr-cartoon.carbon.tiff (TIFF)",
+  "silicon": "the-bohr-cartoon.silicon.png (PNG)",
+  "seal_sha256": "13b4493b7d5d6197480c2bf92581fd493bd4f3f3cc4f80793d90ec5c11d5744f",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Quantum Leap",
+  "universe": "ATM · The Quantum Leap (techne)",
+  "emergence": "electrical",
+  "moniker": "⟦The Quantum Leap:ATM:b36ece⟧",
+  "carbon": "the-quantum-leap.carbon.tiff (TIFF)",
+  "silicon": "the-quantum-leap.silicon.png (PNG)",
+  "seal_sha256": "25485ac6b2c3e04c03e07d59b1408b50d7b0e3168815c66c70d0be13623debdc",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

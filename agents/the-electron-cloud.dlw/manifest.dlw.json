@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Electron Cloud",
+  "universe": "ATM · The Electron Cloud (techne)",
+  "emergence": "electrical",
+  "moniker": "⟦The Electron Cloud:ATM:b0ad0a⟧",
+  "carbon": "the-electron-cloud.carbon.tiff (TIFF)",
+  "silicon": "the-electron-cloud.silicon.png (PNG)",
+  "seal_sha256": "1cb193974df03a46d4e118f8e9d8179eaa062b09702bde06a860e26bbe1deb9b",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
