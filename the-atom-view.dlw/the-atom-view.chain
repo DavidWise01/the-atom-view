@@ -4,6 +4,6 @@ slug  : the-atom-view
 seal  : d3861c117c215462efd1fb3822a07dcbc2eca24f02967da14ce986d50557465b
 prev  : b823f2e47815bc20881da99492c335c18121010272df0ebcc8dc02852c0e694b
 link  : 38c3c4f9bb9b4d0d69e3468898e5a375677dfe200abac2976812d51b2481aa31
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
